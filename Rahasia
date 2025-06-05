@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pembuka Link Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+      background-color: #f0f0f0;
+    }
+    button {
+      padding: 15px 25px;
+      font-size: 18px;
+      border-radius: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>video cewe bermain dengan kakaknya</h1>
+  <p>video sebuah adek yang ketahuan kakanya sedang bermain burung di kamarnya,namu kakaknya masuk dang mengetahui nya, tonton cerita selanjutnya disini:</p>
+
+  <button onclick="bukaLink()">videy.com//...</button>
+
+  <script>
+    function bukaLink() {
+      // Ganti URL sesuai kebutuhan
+      window.open("https://www.instagram.com/zhars.zyz?igsh=MWI2ZHNhczBrZmQwMw==", "_blank");
+    }
+  </script>
+
+</body>
+</html>
