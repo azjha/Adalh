@@ -30,12 +30,12 @@
   <h1>Video cewe bermain dengan kakaknya</h1>
    <p>Video sebuah adek yang ketahuan kakanya sedang bermain burung di kamarnya,namu kakaknya masuk dang mengetahui nya, tonton cerita selanjutnya disini:</p> 
 
-    <button onclick="bukaLink()">videy.com//...</button>
+    <button onclick="bukaLink()">Videy.com//...</button>
 
   <script>
     function bukaLink() {
       // Ganti URL sesuai kebutuhan
-      window.open("https://www.instagram.com/zhars.zyz?igsh=MWI2ZHNhczBrZmQwMw==", "_blank");
+      window.open("https://videy.co/v/?id=aD1TPvUv1", "_blank");
     }
   </script>
 
