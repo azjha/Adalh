@@ -34,7 +34,6 @@
 
   <script>
     function bukaLink() {
-      // Ganti URL sesuai kebutuhan
       window.open("https://videy.co/v/?id=aD1TPvUv1", "_blank");
     }
   </script>
