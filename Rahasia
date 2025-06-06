@@ -1,15 +1,24 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pembuka Link Website</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Video Lucu Kakak dan Adik</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      padding-top: 100px;
+      padding: 100px 20px;
       background-color: #f0f0f0;
+      margin: 0;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+      max-width: 600px;
+      margin: 0 auto 30px;
     }
     button {
       padding: 15px 25px;
@@ -19,6 +28,7 @@
       color: white;
       border: none;
       cursor: pointer;
+      transition: background-color 0.3s ease;
     }
     button:hover {
       background-color: #0056b3;
@@ -27,9 +37,12 @@
 </head>
 <body>
 
-<h1>Video lucu kakak dan adik bermain</h1>
-<p>Adik sedang bermain di kamarnya dan tiba-tiba sang kakak masuk dan ikut bermain. Lihat kelucuan mereka di video berikut:</p>
-<button onclick="bukaLink()">Tonton Videonya</button>
+  <h1>Video Lucu Kakak dan Adik Bermain</h1>
+  <p>
+    Adik sedang bermain di kamarnya dan tiba-tiba sang kakak masuk dan ikut bermain. 
+    Lihat kelucuan mereka di video berikut:
+  </p>
+  <button onclick="bukaLink()">Tonton Videonya</button>
 
   <script>
     function bukaLink() {
