@@ -27,10 +27,9 @@
 </head>
 <body>
 
-  <h1>Video cewe bermain dengan kakaknya</h1>
-   <p>Video sebuah adek yang ketahuan kakanya sedang bermain burung di kamarnya,namu kakaknya masuk dang mengetahui nya, tonton cerita selanjutnya disini:</p> 
-
-    <button onclick="bukaLink()">Videy.com//...</button>
+<h1>Video lucu kakak dan adik bermain</h1>
+<p>Adik sedang bermain di kamarnya dan tiba-tiba sang kakak masuk dan ikut bermain. Lihat kelucuan mereka di video berikut:</p>
+<button onclick="bukaLink()">Tonton Videonya</button>
 
   <script>
     function bukaLink() {
